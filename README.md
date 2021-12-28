@@ -1,8 +1,6 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Heesang&fontAlign=80&fontAlignY=40&color=gradient)
 
 ### Hi there 👋
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Heeesang&show_icons=true&theme=dracula&locale=en" alt="Heeesang" /></p>
-
 
 
 
